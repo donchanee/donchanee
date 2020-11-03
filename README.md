@@ -5,7 +5,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://double-tap.tistory.com//)](https://double-tap.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dchan0305@gmail.com)](mailto:dchan0305@gmail.com)
 
-🌱 I’m currently learning React, Machine Learning, System trading.
+🌱 I’m currently learning React, Machine Learning, System trading, Ruby.
 </div>
 
 <!--
