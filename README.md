@@ -8,6 +8,7 @@
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <br>
@@ -20,9 +21,8 @@
 
 <h3 align="center">•••</h3>
 
-
-<a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://double-tap.tistory.com//)](https://double-tap.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-1ED760?style=flat-square&logo=V&link=https://velog.io/@donchanee)](https://velog.io/@donchanee)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FABF15?style=flat-square&logo=tails&link=https://double-tap.tistory.com//)](https://double-tap.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dchan0305@gmail.com)](mailto:dchan0305@gmail.com)
 
 </div>
