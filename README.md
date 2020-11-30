@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
   <img src="https://img.shields.io/badge/-CleanCode-black"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00"/>&nbsp
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5"/>&nbsp
 </p>
