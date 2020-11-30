@@ -7,8 +7,8 @@
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Javascript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <br>
   <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
   <img src="https://img.shields.io/badge/-CleanCode-black"/>&nbsp
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00"/>&nbsp
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
