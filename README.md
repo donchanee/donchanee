@@ -8,6 +8,7 @@
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Go-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Javascript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <br>
