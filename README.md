@@ -2,7 +2,7 @@
 
 <div align=center>  
   
-[![Dongchan's github stats](https://github-readme-stats.vercel.app/api?username=donchanee)](https://github.com/anuraghazra/github-readme-stats)
+[![Dongchan's github stats](https://github-readme-stats.vercel.app/api?username=donchanee&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">📚 Technology Stack 📚</h3>
