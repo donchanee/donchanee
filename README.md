@@ -25,11 +25,11 @@
 
 <h3 align="center">•••</h3>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-1ED760?style=flat-square&logo=V&logoColor=white&link=https://velog.io/@donchanee)](https://velog.io/@donchanee)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-1ED760?style=flat-square&logo=V&logoColor=white&link=https://velog.io/@donchanee/series)](https://velog.io/@donchanee/series)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FABF15?style=flat-square&logo=tails&logoColor=white&link=https://double-tap.tistory.com//)](https://double-tap.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dchan0305@gmail.com)](mailto:dchan0305@gmail.com)
 <br>
-<a href="https://github.com/donchanee/donchanee/blob/main/Dongchan_Seol_-_Resume.pdf"> Resume </a>
+<a href="https://github.com/donchanee/donchanee/blob/main/Dongchan_Seol_-_Resume.pdf"><img src"https://img.shields.io/badge/Go%20to-Resume-red"/></a>
 </div>
 
 <!--
