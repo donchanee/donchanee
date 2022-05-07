@@ -29,8 +29,6 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-FABF15?style=flat-square&logo=tails&logoColor=white&link=https://double-tap.tistory.com)](https://double-tap.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dchan0305@gmail.com)](mailto:dchan0305@gmail.com)
 <br>
-[![Resume Badge](https://img.shields.io/badge/Go%20to-Resume-red?style=flat-square&logo=tails&link=https://github.com/donchanee/donchanee/blob/main/Dongchan_Seol_-_Resume.pdf)](https://github.com/donchanee/donchanee/blob/main/Dongchan_Seol_-_Resume.pdf)
-</div>
 
 <!--
 **donchanee/donchanee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
