@@ -4,25 +4,6 @@
   
 [![Dongchan's github stats](https://github-readme-stats.vercel.app/api?username=donchanee&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h3 align="center">📚 Technology Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Go-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Javascript-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>
-  <br>
-  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Flask-blue"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-CleanCode-black"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00"/>&nbsp
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5"/>&nbsp
-</p>
-
 <h3 align="center">•••</h3>
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-1ED760?style=flat-square&logo=V&logoColor=white&link=https://velog.io/@donchanee/series)](https://velog.io/@donchanee/series)
